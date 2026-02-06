@@ -269,9 +269,9 @@ int main() {
   </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhi-saurav-saroya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p> -->
+</p>
 
 ---
 
