@@ -92,7 +92,7 @@ I’m currently focused on strengthening my foundations in C/C++ and improving a
   - Writing readable and optimized solutions
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/abhi-saurav-saroya?theme=dark&font=Inter&ext=heatmap" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/abhi-saurav-saroya?ext=stats&theme=dark" width="60%" />
 </p>
 
 🔗 **LeetCode Profile:**  
