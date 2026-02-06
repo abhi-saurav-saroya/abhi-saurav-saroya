@@ -250,5 +250,4 @@ int main() {
     me.mindset();
     return 0;
 }
-#   a b h i - s a u r a v - s a r o y a  
- 
+```
