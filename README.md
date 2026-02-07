@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 🎓 **Second-year Undergraduate in Computer Science** at **DAVIET**
+- 🎓 **Second-year Undergraduate in Computer Science**
 - 💻 Strong focus on **core programming fundamentals**
 - 🧠 Actively working on **Data Structures & Algorithms**
 - 📌 Regularly practicing on **LeetCode** to build problem-solving depth
@@ -114,8 +114,8 @@ https://leetcode.com/u/abhi-saurav-saroya/
 </p>
 
 <p align = 'center'>
-<a href="https://github.com/aryan-r03?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@abhi-saurav-saroya's github-readme-stats"/></a>
-<a href="https://github.com/aryan-r03?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@abhi-saurav-saroya's github-readme-streak-stats"/></a>
+<a href="https://github.com/abhi-saurav-saroya?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@abhi-saurav-saroya's github-readme-stats"/></a>
+<a href="https://github.com/abhi-saurav-saroya?tab=repositories#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@abhi-saurav-saroya's github-readme-streak-stats"/></a>
 </p>
 
 
@@ -128,8 +128,8 @@ https://leetcode.com/u/abhi-saurav-saroya/
 
 
 <p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&utcOffset=5.30"  width="31%" alt="@abhi-saurav-saroya's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@abhi-saurav-saroya's profile-details"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Aabhi-saurav-saroya+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&utcOffset=5.30"  width="31%" alt="@abhi-saurav-saroya's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Aabhi-saurav-saroya+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@abhi-saurav-saroya's profile-details"/></a>
 
 
 <p align="center">
@@ -270,7 +270,9 @@ int main() {
 </p>
 
 <p align="center">
+  <a href="https://github.com/abhi-saurav-saroya">
   <img src="https://komarev.com/ghpvc/?username=abhi-saurav-saroya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
 ---
