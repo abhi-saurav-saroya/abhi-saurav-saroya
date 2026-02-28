@@ -62,14 +62,19 @@ I’m currently focused on strengthening my foundations in C/C++ and improving a
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/>
         <br>VS Code
       </td>
-      <td align = "center" width = "96">
-        <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-        width="40"/>
-        <br>Jupiter Notebook
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter Notebook"/>
+        <br>Jupyter Notebook
+      </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-       width="65" height="65" alt="Google Colab"/>
+        width="65" height="65" alt="Google Colab"/>
         <br>Google Colab
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
+        width="65" height="65" alt="PyCharm"/>
+        <br>PyCharm
       </td>
     </tr>
   </table>
