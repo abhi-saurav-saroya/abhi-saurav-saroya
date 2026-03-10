@@ -109,11 +109,6 @@ https://leetcode.com/u/abhi-saurav-saroya/
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=aryan-r03&cache_seconds=1800&show_icons=true"></a>
 </p>
@@ -136,15 +131,19 @@ https://leetcode.com/u/abhi-saurav-saroya/
 <a href="https://github.com/pulls?q=is%3Apr+author%3Aabhi-saurav-saroya+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&utcOffset=5.30"  width="31%" alt="@abhi-saurav-saroya's productive-time"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3Aabhi-saurav-saroya+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@abhi-saurav-saroya's profile-details"/></a>
 
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi-saurav-saroya&theme=gotham" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi-saurav-saroya&theme=gotham" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhi-saurav-saroya&layout=compact&theme=dark" width="48%" />
 </p>
 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+## GitHub Activity Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi-saurav-saroya/abhi-saurav-saroya/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ## Featured Projects
