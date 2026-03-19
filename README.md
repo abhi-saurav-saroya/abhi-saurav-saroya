@@ -289,5 +289,5 @@ int main() {
 </p>
 
 <p align="center">
-  <i>Correctness first. Optimization follows..</i>
+  <i>Correctness first. Optimization follows...</i>
 </p>
