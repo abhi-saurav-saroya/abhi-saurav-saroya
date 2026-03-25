@@ -8,12 +8,12 @@
 
 ## About Me
 
-- 🎓 **Second-year Undergraduate in Computer Science**
-- 💻 Strong focus on **core programming fundamentals**
-- 🧠 Actively working on **Data Structures & Algorithms**
-- 📌 Regularly practicing on **LeetCode** to build problem-solving depth
-- 🔍 Interested in writing **clean, efficient, and correct code**
-- 📍 Based in **India**
+-  **Second-year Undergraduate in Computer Science**
+-  Strong focus on **core programming fundamentals**
+-  Actively working on **Data Structures & Algorithms**
+-  Regularly practicing on **LeetCode** to build problem-solving depth
+-  Interested in writing **clean, efficient, and correct code**
+-  Based in **India**
 
 I’m currently focused on strengthening my foundations in C/C++ and improving algorithmic thinking before moving into larger systems or frameworks.
 
