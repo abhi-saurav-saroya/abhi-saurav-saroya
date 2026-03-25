@@ -248,7 +248,6 @@ public:
 
     void mindset() {
         cout << "Consistency > Motivation" << endl;
-        cout << "Basics First" << endl;
     }
 };
 
