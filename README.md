@@ -6,21 +6,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## About Me
-
--  **Second-year Undergraduate in Computer Science**
--  Strong focus on **core programming fundamentals**
--  Actively working on **Data Structures & Algorithms**
--  Regularly practicing on **LeetCode** to build problem-solving depth
--  Interested in writing **clean, efficient, and correct code**
--  Based in **India**
-
-I’m currently focused on strengthening my foundations in C/C++ and improving algorithmic thinking before moving into larger systems or frameworks.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 ## Tech Stack
 
 <div align="center">
@@ -63,8 +48,8 @@ I’m currently focused on strengthening my foundations in C/C++ and improving a
         <br>VS Code
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter Notebook"/>
-        <br>Jupyter Notebook
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter Lab"/>
+        <br>Jupyter Lab
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
@@ -88,13 +73,6 @@ I’m currently focused on strengthening my foundations in C/C++ and improving a
 </p>
 
 ## Problem Solving & DSA
-
-- Practicing **Data Structures & Algorithms** consistently
-- Solving problems on **LeetCode**
-- Focused on:
-  - Time & space complexity
-  - Edge-case handling
-  - Writing readable and optimized solutions
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/abhi-saurav-saroya?ext=stats&theme=dark" width="60%" />
@@ -152,85 +130,58 @@ https://leetcode.com/u/abhi-saurav-saroya/
 
 ## Featured Projects
 
-> These are **prototype-level, console applications**, built to practice logic, structure, and correctness.
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🔐 **CipherSafe** - Multi-user Secure File Vault (C++)
 
-### 🔐 CipherSafe  
-**Multi-user Secure File Vault (C++)**
+Secure file locker supporting authentication, encrypted storage, and file recovery.
 
-A lightweight **file locker system** that allows users to securely encrypt, store, recover, and manage files through a clean console dashboard.
-
-- Multi-user authentication system  
-- File encryption and secure storage  
-- Implements **SHA-256 hashing** and **XOR-based encryption**  
-- Emphasis on data security and access control  
-
-**Tech:** `C++` `File I/O` `Hashing` `Encryption`
-
-🔗 **Repository:**  
+🔗 Repository:
 https://github.com/abhi-saurav-saroya/CipherSafe
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🔑 VaultX  
-**Offline Password Manager (C++)**
+### 🔑 **VaultX** - Offline Password Manager (C++)
 
-A secure **single-admin password manager** that stores credentials locally in encrypted form without relying on external services.
+Local-first password manager with encrypted credential storage and session-based security.
 
-- Offline-first design
-- Encrypted local credential storage  
-- Session-based key derivation  
-- Focus on confidentiality and secure data handling  
-
-**Tech:** `C++` `Hashing` `Encryption` `Security Design`
-
-🔗 **Repository:**  
+🔗 Repository:
 https://github.com/abhi-saurav-saroya/VaultX
 
-</td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+---
 
-### ☎️ PhoneBook  
-**Console Contact Management System**
+### 🧠 **EduGenie** - AI-Assisted Learning Tool
 
-A complete contact manager implemented using **object-oriented and generic programming** principles.
+Hackathon-built Flask application that generates summaries, quizzes, and explanations from text.
 
-- Add, update, delete, and search contacts  
-- Sorted contact storage  
-- Persistent file-based backup  
-- Clean modular design  
-
-**Tech:** `C++` `OOP` `STL` `File Handling`
-
-🔗 **Repository:**  
-https://github.com/abhi-saurav-saroya/PhoneBook
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 EduGenie  
-**AI-Assisted Learning Tool (Hackathon Project)**
-
-Built during a **5-hour intra-college hackathon**, EduGenie is a Flask-based web application that processes text input to generate learning aids.
-
-- Accepts uploaded text files or raw input  
-- Generates summaries, key points, quizzes, and explanations  
-- Designed for fast prototyping and usability  
-
-**Tech:** `Python` `Flask` `Generative AI` `Rapid Prototyping`
-
-🔗 **Repository:**  
+🔗 Repository:
 https://github.com/abhi-saurav-saroya/EduGenie
 
-</td>
-</tr>
-</table>
+---
+
+### 📂 **Sortify** — Automated File Organization Tool
+
+Python utility that automatically scans directories and organizes files into categorized folders based on their extensions, and intelligent file renaming.
+
+🔗 Repository:
+https://github.com/abhi-saurav-saroya/Sortify
+
+---
+
+### 🔍 **TwinScan** — Duplicate File Detection System
+
+High-performance duplicate file scanner that combines file-size filtering with SHA-256 hashing for efficient duplicate detection. By eliminating unnecessary hash computations, TwinScan reduced scan time on a real-world directory from **2 minutes 3 seconds** to **2.34 seconds**, demonstrating the impact of algorithmic optimization.
+
+🔗 Repository:
+https://github.com/abhi-saurav-saroya/TwinScan
+
+---
+
+### 📊 **Pulse** — Real-Time System Monitoring Dashboard
+
+Terminal-based dashboard that displays live CPU usage, memory consumption, and active process information through a continuously updating interface.
+
+🔗 Repository:
+https://github.com/abhi-saurav-saroya/Pulse
 
 
 <p align="center">
@@ -240,22 +191,23 @@ https://github.com/abhi-saurav-saroya/EduGenie
 ## Current Focus
 
 ```cpp
-class Abhi {
-public:
-    string focus = "Data Structures & Algorithms";
-    vector<string> languages = {"C", "C++", "Python"};
-    string approach = "Learn fundamentals first, scale later";
+class Abhi:
+    def __init__(self):
+        self.focus = "Data Science"
+        self.languages = ["C", "C++", "Python"]
+        self.approach = "Learn fundamentals first, scale later"
 
-    void mindset() {
-        cout << "Consistency > Motivation" << endl;
-    }
-};
+    def mindset(self):
+        print("Consistency > Motivation")
 
-int main() {
-    Abhi me;
-    me.mindset();
-    return 0;
-}
+
+def main():
+    me = Abhi()
+    me.mindset()
+
+
+if __name__ == "__main__":
+    main()
 ```
 
 ## 🌐 Connect With Me
