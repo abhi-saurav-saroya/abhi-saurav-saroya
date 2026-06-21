@@ -52,14 +52,33 @@
         <br>Jupyter Lab
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png"
         width="65" height="65" alt="Google Colab"/>
         <br>Google Colab
+      </td>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
         width="65" height="65" alt="PyCharm"/>
         <br>PyCharm
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Libraries & Packages
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+        width="65" height="65" alt="NumPy"/>
+        <br>NumPy
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+        width="65" height="65" alt="Pandas"/>
+        <br>Pandas
       </td>
     </tr>
   </table>
