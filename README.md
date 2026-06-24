@@ -11,80 +11,24 @@
 <div align="center">
 
 ### Languages
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/>
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C"/>
-        <br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
-        <br>Python
-      </td>
-      </td>
-    </tr>
-  </table>
-</div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python" />
+  </p>
 
 ### Tools & Platforms
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git"/>
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="65" height="65" alt="GitHub"/>
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/>
-        <br>VS Code
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter Lab"/>
-        <br>Jupyter Lab
-      </td>
-      <td align="center" width="96">
-        <img src="https://colab.research.google.com/img/colab_favicon_256px.png"
-        width="65" height="65" alt="Google Colab"/>
-        <br>Google Colab
-      </td>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
-        width="65" height="65" alt="PyCharm"/>
-        <br>PyCharm
-      </td>
-    </tr>
-  </table>
-</div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" alt="Jupyter" />
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" alt="Google Colab" />
+  </p>
 
 ### Libraries & Packages
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-        width="65" height="65" alt="NumPy"/>
-        <br>NumPy
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-        width="65" height="65" alt="Pandas"/>
-        <br>Pandas
-      </td>
-    </tr>
-  </table>
-</div>
+  <p align="center">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas" />
+  </p>
 
 </div>
+
 
 
 <p align="center">
@@ -129,7 +73,7 @@ https://leetcode.com/u/abhi-saurav-saroya/
 <a href="https://github.com/issues?q=is%3Aissue+author%3Aabhi-saurav-saroya+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@abhi-saurav-saroya's profile-details"/></a>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhi-saurav-saroya&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhi-saurav-saroya&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 
