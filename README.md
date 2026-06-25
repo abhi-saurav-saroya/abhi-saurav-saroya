@@ -158,6 +158,8 @@ class Abhi:
     def __init__(self):
         self.focus = "Data Science"
         self.languages = ["C", "C++", "Python"]
+        self.tools = ["Jupyter Lab", "Google Colab", "VS Code", "PyCharm"]
+        sel.version_control = ["git", "GitHub"]
         self.approach = "Learn fundamentals first, scale later"
 
     def mindset(self):
