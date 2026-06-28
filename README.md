@@ -177,18 +177,19 @@ if __name__ == "__main__":
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhi-saurav-saroya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:abhisauravsaroya06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://leetcode.com/u/abhi-saurav-saroya/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" alt="LeetCode" width="48" height="48" />
   </a>
   <a href="https://github.com/abhi-saurav-saroya">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/abhi-saurav-saroya">
