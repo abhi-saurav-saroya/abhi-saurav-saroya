@@ -67,13 +67,12 @@ https://leetcode.com/u/abhi-saurav-saroya/
 </p>
 
 
-
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3Aabhi-saurav-saroya+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&utcOffset=5.30"  width="31%" alt="@abhi-saurav-saroya's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3Aabhi-saurav-saroya+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@abhi-saurav-saroya's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Aabhi-saurav-saroya+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-saurav-saroya&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@abhi-saurav-saroya's profile-details"/></a> -->
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhi-saurav-saroya&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhi-saurav-saroya&layout=compact&theme=tokyonight" width="50%"/>
 </p>
 
 
@@ -86,66 +85,6 @@ https://leetcode.com/u/abhi-saurav-saroya/
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhi-saurav-saroya/abhi-saurav-saroya/output/github-snake-dark.svg">
 </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## Featured Projects
-
-### 🔐 **CipherSafe** - Multi-user Secure File Vault (C++)
-
-Secure file locker supporting authentication, encrypted storage, and file recovery.
-
-🔗 Repository:
-https://github.com/abhi-saurav-saroya/CipherSafe
-
----
-
-### 🔑 **VaultX** - Offline Password Manager (C++)
-
-Local-first password manager with encrypted credential storage and session-based security.
-
-🔗 Repository:
-https://github.com/abhi-saurav-saroya/VaultX
-
-
----
-
-### 🧠 **EduGenie** - AI-Assisted Learning Tool
-
-Hackathon-built Flask application that generates summaries, quizzes, and explanations from text.
-
-🔗 Repository:
-https://github.com/abhi-saurav-saroya/EduGenie
-
----
-
-### 📂 **Sortify** — Automated File Organization Tool
-
-Python utility that automatically scans directories and organizes files into categorized folders based on their extensions, and intelligent file renaming.
-
-🔗 Repository:
-https://github.com/abhi-saurav-saroya/Sortify
-
----
-
-### 🔍 **TwinScan** — Duplicate File Detection System
-
-High-performance duplicate file scanner that combines file-size filtering with SHA-256 hashing for efficient duplicate detection. By eliminating unnecessary hash computations, TwinScan reduced scan time on a real-world directory from **2 minutes 3 seconds** to **2.34 seconds**, demonstrating the impact of algorithmic optimization.
-
-🔗 Repository:
-https://github.com/abhi-saurav-saroya/TwinScan
-
----
-
-### 📊 **Pulse** — Real-Time System Monitoring Dashboard
-
-Terminal-based dashboard that displays live CPU usage, memory consumption, and active process information through a continuously updating interface.
-
-🔗 Repository:
-https://github.com/abhi-saurav-saroya/Pulse
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -173,7 +112,7 @@ if __name__ == "__main__":
     main()
 ```
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhi-saurav-saroya/">
