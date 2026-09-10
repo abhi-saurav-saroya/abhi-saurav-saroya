@@ -24,7 +24,7 @@
 
 ### Libraries & Packages
   <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,plotly,streamlit" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,plotly,streamlit,scikitlearn" />
   </p>
 
 </div>
