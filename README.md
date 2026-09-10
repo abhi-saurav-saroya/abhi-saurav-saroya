@@ -41,8 +41,7 @@
   <img src="https://leetcard.jacoblin.cool/abhi-saurav-saroya?ext=stats&theme=dark" width="60%" />
 </p>
 
-🔗 **LeetCode Profile:**  
-https://leetcode.com/u/abhi-saurav-saroya/
+🔗 **LeetCode Profile:**: https://leetcode.com/u/abhi-saurav-saroya/
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -92,7 +91,7 @@ https://leetcode.com/u/abhi-saurav-saroya/
 
 ## Current Focus
 
-```cpp
+```python
 class Abhi:
     def __init__(self):
         self.focus = "Data Science"
