@@ -12,7 +12,7 @@
 
 ### Languages
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,r" />
   </p>
 
 ### Tools & Platforms
